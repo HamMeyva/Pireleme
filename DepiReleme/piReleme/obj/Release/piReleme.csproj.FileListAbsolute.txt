@@ -1,0 +1,10 @@
+E:\Pireleme\DepiReleme\piReleme\bin\Release\piReleme.exe.config
+E:\Pireleme\DepiReleme\piReleme\bin\Release\piReleme.exe
+E:\Pireleme\DepiReleme\piReleme\bin\Release\piReleme.pdb
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.Form1.resources
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.Form2dePireleme.resources
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.Properties.Resources.resources
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.csproj.GenerateResource.cache
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.csproj.CoreCompileInputs.cache
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.exe
+E:\Pireleme\DepiReleme\piReleme\obj\Release\piReleme.pdb
